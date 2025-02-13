@@ -1,4 +1,4 @@
-<p align="right"><h1>hello world! Priyanshu here ✌️<img src="https://emoji.discadia.com/emojis/99f07b11-5f6d-43cd-8d6b-529f64b4cd04.gif" width="40px" /></h1> <img align="left" src="https://komarev.com/ghpvc/?username=anshucodie&style=flat-square&abbreviated=true&color=green" alt="anshuCodie" /> </p>
+<p align="right"><h1>hello world! Priyanshu here ✌️</h1> <img align="left" src="https://komarev.com/ghpvc/?username=anshucodie&style=flat-square&abbreviated=true&color=green" alt="anshuCodie" /> </p>
 <br />
 <br/>
 - ✨ <b>priyanshucodie@gmail.com</b> <br />
