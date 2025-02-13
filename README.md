@@ -1,4 +1,4 @@
-<p align="right"><h1>hello world! Priyanshu here ✌️</h1> <img align="left" src="https://komarev.com/ghpvc/?username=steakfisher&label=Profile%30views&color=00ffef&style=flat" alt="SteakFisher" /> </p>
+<p align="right"><h1>hello world! Priyanshu here ✌️</h1> <img align="left" src="https://komarev.com/ghpvc/?username=anshucodie&style=flat-square&abbreviated=true&color=green" alt="anshuCodie" /> </p>
 <br />
 <br/>
 - ✨ <b>priyanshucodie@gmail.com</b> <br />
