@@ -1,7 +1,7 @@
 <p align="right"><h1>Hello! Priyanshu here ✌️</h1> <img align="left" src="https://komarev.com/ghpvc/?username=anshucodie&style=flat-square&abbreviated=true&color=green" alt="anshuCodie" /> </p>
 <br />
 <br/>
-- ✨ <b>Web Developer</b> <br />
+- 💻 <b>Web Developer</b> <br />
 - ✨ <b>priyanshucodie@gmail.com</b> <br />
 <br/>
 
