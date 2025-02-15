@@ -2,7 +2,7 @@
 <br />
 <br/>
 - 💻 <b>Web Developer</b> <br />
-- ✨ <b>priyanshucodie@gmail.com</b> <br />
+- ✨ <b>priyanshu.script@gmail.com</b> <br />
 <br/>
 
 <h3 align="left">Tools I use..</h3>
